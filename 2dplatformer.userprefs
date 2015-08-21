@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\mygame\scripts\PlayerControl.cs">
+    <Files>
+      <File FileName="Assets\mygame\scripts\PlayerControl.cs" Line="69" Column="10" />
+      <File FileName="Assets\mygame\scripts\Luffy2DFollow.cs" Line="48" Column="51" />
+      <File FileName="Assets\mygame\scripts\FrontScroll.cs" Line="11" Column="3" />
+      <File FileName="Assets\mygame\scripts\BackgroundScroll.cs" Line="11" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
